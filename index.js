@@ -7,7 +7,8 @@ const theBeatlesPlay = (musicians, instruments) => {
   }
 
 const johnLennonFacts = facts => {
-  while (facts[ j > facts.length]) {
+  let j = 0;
+  while (facts[j > facts.length]) {
     facts[j].concat('!!!');
     ++j;
   }
