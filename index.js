@@ -11,4 +11,5 @@ const johnLennonFacts = facts => {
     facts[j].concat(!!!);
     ++j;
   }
+  return facts
 }
