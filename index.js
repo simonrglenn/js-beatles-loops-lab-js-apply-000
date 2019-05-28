@@ -1,6 +1,3 @@
-
-
-
 const theBeatlesPlay = (musicians, instruments) => {
   let beatlesArr = [];
   for (let i = 0; i < musicians.length; i++) {
@@ -8,3 +5,10 @@ const theBeatlesPlay = (musicians, instruments) => {
       }
   return beatlesArr
   }
+
+const johnLennonFacts = facts => {
+  while (facts[ j > facts.length]) {
+    
+    ++j;
+  }
+}
