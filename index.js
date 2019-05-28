@@ -8,7 +8,7 @@ const theBeatlesPlay = (musicians, instruments) => {
 
 const johnLennonFacts = facts => {
   while (facts[ j > facts.length]) {
-    
+
     ++j;
   }
 }
