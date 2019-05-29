@@ -8,7 +8,7 @@ const theBeatlesPlay = (musicians, instruments) => {
 
 const johnLennonFacts = facts => {
   let j = 0;
-  wowFacts = [];
+  let wowFacts = [];
   while (facts[j > facts.length]) {
     wowFacts.push(facts[j] + '!!!')
     ++j;
