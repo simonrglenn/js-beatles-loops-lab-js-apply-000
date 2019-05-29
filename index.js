@@ -10,7 +10,7 @@ const johnLennonFacts = facts => {
   let j = 0;
   let wowFacts = [];
   while (j < facts.length) {
-    wowFacts.push(facts[j] + '!!!')
+    wowFacts.push(facts[j] + '!!!');
     ++j;
   }
   return facts;
