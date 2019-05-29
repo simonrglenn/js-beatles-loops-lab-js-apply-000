@@ -9,7 +9,7 @@ const theBeatlesPlay = (musicians, instruments) => {
 const johnLennonFacts = facts => {
   let j = 0;
   while (facts[j > facts.length]) {
-    /*facts[j].concat('!!!');*/
+    facts[j].concat('!!!');
     ++j;
   }
   return facts;
