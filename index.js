@@ -15,4 +15,3 @@ const johnLennonFacts = facts => {
   }
   return facts;
 }
-
